@@ -1,2 +1,2 @@
 # scriptfarm
-Scripts Repository (Python, Bash, Perl)
+Scripts Repository (Python, Bash, Perl). This is just a practice ground.
